@@ -1,0 +1,19 @@
+# Environnements virtuels
+.venv/
+venv/
+env/
+ENV/
+
+# Clés API et secrets
+.env
+.env.local
+
+# Données (volumineuses)
+*.csv
+*.txt
+*.xlsx
+
+# Cache et fichiers temporaires
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
